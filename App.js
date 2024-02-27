@@ -5,13 +5,13 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 const amigo1 = {
   nome: "Vitor",
-  justificativa: "Vitor é um amigo de confiança porque sempre esteve ao meu lado nos momentos difíceis e demonstrou ser leal e confiável.",
+  justificativa: "Vitor é um amigo de confiança porque sempre demonstrou ser leal e confiável.",
   imitacao: "Gostaria que Vitor imitasse um avião."
 };
 
 const amigo2 = {
   nome: "Gabriel",
-  justificativa: "Gabriel é uma amiga de confiança porque sempre me ouve e oferece conselhos sinceros, além de ser uma pessoa muito honesta e prestativa.",
+  justificativa: "Gabriel é uma amiga de confiança porque sempre me ouve e oferece conselhos, além de ser uma pessoa muito honesta.",
   imitacao: "Gostaria que Gabriel imitasse um avião."
 };
 
